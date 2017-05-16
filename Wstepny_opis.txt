@@ -1,0 +1,10 @@
+Wstêpny opis aplikacji
+Aplikacja : Liga prywatna w Premier League Fantasy.
+Imiê i Nazwisko: Pawe³ Stefanowski
+
+Aplikacja WPF bêdzie s³u¿y³a do obs³ugi prywatnej ligi w grze Premier League Fantasy. 
+Dane do aplikacji bêd¹ wprowadzane rêcznie b¹dŸ w przysz³oœci automatycznie. 
+Jej g³ównym zadaniem bêdzie tworzenie klasyfikacji punktowej w okreœlonych czêœciach sezonu,
+ sprawdzanie które formacje przynosz¹ graczom najwiêksza iloœæ punktów, 
+i jak¹ formê prezentowali zawodnicy w danym okresie sezonu w porównaniu ze swoimi 
+przeciwnikami. Dane ligi bêd¹ przechowywane za pomoc¹ pliku lub bazy danych.
