@@ -1,0 +1,10 @@
+Opis aplikacji
+Aplikacja : Liga prywatna w Premier League Fantasy.
+Aplikacja WPF s³u¿y do obs³ugi prywatnej ligi w grze Premier League Fantasy. 
+Dane do aplikacji s¹ wprowadzane rêcznie. Mo¿na dodawaæ graczy i punkty dla ka¿dego z nich. 
+Na tej podstawie aplikacja tworzy klasyfikacjê któr¹ mo¿na wydrukowaæ na papier lub do formatu pdf.
+Wprowadzane dane przechowywane s¹ w zbindowanej z programem bazie danych sqlite z³o¿onej z dwóch tabel. 
+Pierwsza z nich zawiera dane graczy, druga przypisane za pomoc¹ numeru ID punkty zdobywane w poszczególnych kolejkach. 
+Mo¿liwe jest sprawdzenie historii punktów ka¿dego z graczy w kolejnych tygodniach.
+
+https://www.youtube.com/watch?v=9K9L-SqSd9o&feature=youtu.be
